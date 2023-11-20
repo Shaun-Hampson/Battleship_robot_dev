@@ -14,12 +14,14 @@ Project to design a small scale battleship using [ROS](https://www.ros.org/) to 
 
 ## Requirements
 
+
 ## System Information
 ### Locomotion
 
 ### Navigation
 
 ### Perception
+
 
 ## Development Notes
 ### Locomotion
@@ -28,4 +30,13 @@ Project to design a small scale battleship using [ROS](https://www.ros.org/) to 
 
 ### Perception
 
+
 ## References
+### Basic Gazebo
+[The Construct](https://www.youtube.com/playlist?list=PLK0b4e05LnzbHiGDGTgE_FIWpOCvndtYx)
+[Algobotics](https://www.youtube.com/watch?v=_qQAfTmB5wc)
+
+### Water Simulations
+[Gazebosim.org](https://staging.gazebosim.org/projects/maritime)
+[uus_simulator](https://github.com/uuvsimulator/uuv_simulator/tree/master)
+
