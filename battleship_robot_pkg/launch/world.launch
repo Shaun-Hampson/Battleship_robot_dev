@@ -4,7 +4,7 @@
     <!-- Overwiriting these args -->
     <arg name='debug' default='false'/>
     <arg name='paused' default='true'/>
-    <arg name='world' default='$(find battleship_robot_pkg)/world/empty_world.world'/>
+    <arg name='world' default='$(find battleship_robot_pkg)/worlds/water_world.world'/>
 
     <!-- Include gazebo_ros launcher -->
     <include file='$(find gazebo_ros)/launch/empty_world.launch'>

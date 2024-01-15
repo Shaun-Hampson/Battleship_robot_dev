@@ -1,0 +1,6 @@
+devel_space: /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel
+install: false
+install_space: /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/install
+profile: default
+source_space: /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/src
+workspace: /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg

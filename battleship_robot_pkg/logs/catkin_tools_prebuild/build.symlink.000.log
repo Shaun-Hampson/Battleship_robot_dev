@@ -1,0 +1,12 @@
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./local_setup.zsh
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./setup.bash
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./local_setup.sh
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./cmake.lock
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./setup.zsh
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./local_setup.bash
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./env.sh
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./setup.sh
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/./_setup_util.py
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/shaun_hampson/Personal_ws/src/Battleship_robot_dev/battleship_robot_pkg/devel/lib/pkgconfig/catkin_tools_prebuild.pc
