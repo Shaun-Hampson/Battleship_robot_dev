@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+<sdf version='1.5'>
+    <world name = 'Water World'>
+
+        <include>
+            <!-- Light Source and Ground Plane-->
+            <url>model://sun</url>
+            <url>model://ground_plane</url>
+        </include>
+
+    </world>
+</sdf>
